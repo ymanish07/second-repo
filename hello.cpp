@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout<<"He guys...\n";
+    cout<<"Hey guys...\n";
     cout<<"My nmae is Manish Yadhuvanshi....!";
     return 0;
 }
